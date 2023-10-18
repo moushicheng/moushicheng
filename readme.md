@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-<img  alt="GIF" src="https://github.com/moushicheng/moushicheng/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="middle" alt="GIF" src="https://github.com/moushicheng/moushicheng/blob/master/code.gif?raw=true" width="500" height="320" />
 
 I am moushicheng, a ordinary front-end engineer.i am also an open-source enthusiast and maintainer.
 
