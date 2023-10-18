@@ -12,6 +12,16 @@ i learned a lot from the open-source community and i love how collaboration and 
 
 <img src="https://profile-counter.glitch.me/moushicheng/count.svg" />
 
-## Connect with me
+### ByteDance Referral（「字节跳动」内推）
 
-wx: moushichengw
+> All cities and jobs can be referred, You can email me `moushicheng@outlook.com` for detail.
+
+> 所有城市、岗位均可内推，可加我微信 `moushichengw` 咨询详情，备注内推。
+
+**投递链接**：https://careers.tiktok.com/s/idmKAfcq
+
+**QR Code（二维码）**：<img src="/qrcode.jpeg" width="150">
+
+---
+
+**My referral code（校招内推码）: WC64XNK**
