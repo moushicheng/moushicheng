@@ -20,7 +20,7 @@ i learned a lot from the open-source community and i love how collaboration and 
 
 **投递链接**：https://careers.tiktok.com/s/idmKAfcq
 
-**QR Code（二维码）**：<img src="/qrcode.jpeg" width="150">
+**QR Code（二维码）**：<img src="/qrcode.png" width="150">
 
 ---
 
